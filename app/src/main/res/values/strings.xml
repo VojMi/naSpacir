@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">na Špacír</string>
+    <string name="tab_text_1">Letošní časy</string>
+    <string name="tab_text_2">Gde právě su</string>
+    <string name="tab_text_4">Věštba</string>
+    <string name="tab_text_3">Moje bolístky</string>
+    <string name="tab_text_5">Moje halušky</string>
+    <string name="tab_text_6">Vzdát to</string>
+</resources>
