@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Zalozky">
+
+    <Button
+        android:id="@+id/letosni"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/letosni"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/gps"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/GPS"
+        android:textStyle="bold" />
+
+    <Button
+android:id="@+id/bolistky"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/bolistky"
+        android:textStyle="bold" />
+
+    <Button
+android:id="@+id/vestba"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/vestba"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/halusky"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/halusky"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/vzdat"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/vzdat"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
